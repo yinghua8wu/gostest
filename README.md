@@ -1,6 +1,6 @@
 # gostest
 
-wget https://github.com/yinghua8wu/gostest/raw/master/gost-linux-amd64 && chmod +x gost-linux-amd64
+wget https://github.com/yinghua8wu/gostest/raw/master/gost-linux-amd64 && wget https://raw.githubusercontent.com/yinghua8wu/gostest/master/g chmod +x gost-linux-amd64 g
 
 服务端
 
